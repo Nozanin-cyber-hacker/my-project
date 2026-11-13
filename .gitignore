@@ -1,0 +1,8 @@
+#зависимости
+node_modules/
+
+# временные картинки
+images/temp/
+
+# macOS
+.DS_Store
